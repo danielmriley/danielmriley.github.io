@@ -1,3 +1,13 @@
+# Daniel M Riley
+
+![Image](src)
+
+I am a PhD student at Florida State University studying Formal Methods in
+the Computer Science Department under the guidance of Dr. Grigory Fedyukovich.
+
+My previous education includes B.S. degrees from FSU in Physics and Exercise Science.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dmr05d/dmr05d.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
